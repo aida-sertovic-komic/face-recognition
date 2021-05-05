@@ -1,7 +1,7 @@
 # Face recognition app
 
 ## Screenshot
-![image](facerecognitionPic.png)
+![image](public/facerecognitionPic.png)
 
 ## Description
 
